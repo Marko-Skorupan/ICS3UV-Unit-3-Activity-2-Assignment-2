@@ -1,7 +1,7 @@
 /*
  * @author Marko Skorupan
  * @version 1.0.0
- * @date 2025-11-12
+ * @date 2025-11-20
  * @fileoverview "Convert user entered cents into dollars plus remaining cents."
  */
 
